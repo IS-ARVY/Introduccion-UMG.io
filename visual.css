@@ -1,0 +1,29 @@
+ 
+html{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 125%;
+    font-family:'Courier New', Courier, monospace, sans-serif ;
+    
+    background-image: url(Fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+body{
+    text-align: left;
+
+
+}
+h2{
+    color: red;
+}
+h1{
+    color: blueviolet;
+}
+h4{
+    color: green;
+}
